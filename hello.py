@@ -1,2 +1,1 @@
-print("Hello continous integration
-");
+print("Hello continous integration");
